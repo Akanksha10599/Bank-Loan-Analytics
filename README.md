@@ -13,10 +13,14 @@
 
 **Conclusion and Key Takeaways**
 1.Loans taken for renewable energy seem to have a higher late fee associated with them, with approximately 11.65% of customers not paying their EMIs on time.
-2.The bank consistently experiences lower profits in the month of April compared to other months each year
-3.Interestingly, unsecured loans such as Debt Consolidation (18641, 12.49%) and credit cards (5130, 11.70%) have a significant number of customers, despite the fact that they come with relatively high interest rates
-4.It appears that customers who have Rent and Mortgage as their ownership status are more inclined to take out loans
-5.Embracing digital channels for loan origination, servicing, and customer interactions
+
+2.The bank consistently experiences lower profits in the month of April compared to other months each year.
+
+3.Interestingly, unsecured loans such as Debt Consolidation (18641, 12.49%) and credit cards (5130, 11.70%) have a significant number of customers, despite the fact that they come with relatively high interest rates.
+
+4.It appears that customers who have Rent and Mortgage as their ownership status are more inclined to take out loans.
+
+5.Embracing digital channels for loan origination, servicing, and customer interactions.
 
 
 
