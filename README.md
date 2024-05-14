@@ -2,11 +2,15 @@
 **Project Title: Bank LoanBank Loan Performance Analytics**
 
 **Welcome to the Unveiling the Hidden Insights presentation, where we will conduct an in-depth analysis of Bank Loan Analytics. Get ready to explore the complex details and gain valuable insights into the world of banking loans**
+
+
 **SkillUtilized -Tableau**
+
 <img width="781" alt="image" src="https://github.com/Akanksha10599/Bank-Loan-Analytics/assets/169041591/d960235a-5ef7-4106-8230-afed884d307a">
 <img width="785" alt="image" src="https://github.com/Akanksha10599/Bank-Loan-Analytics/assets/169041591/fcc0558f-39ab-4019-8697-88ab750d6e4e">
 
 **SkillUtilized -Power Bi**
+
 <img width="603" alt="image" src="https://github.com/Akanksha10599/Bank-Loan-Analytics/assets/169041591/83d65774-f973-4564-9f1b-fe264b8ab671">
 <img width="601" alt="image" src="https://github.com/Akanksha10599/Bank-Loan-Analytics/assets/169041591/c8679a94-b70b-4235-b4d1-b04590ac41c8">
 <img width="603" alt="image" src="https://github.com/Akanksha10599/Bank-Loan-Analytics/assets/169041591/164710cb-b258-4424-8c42-a781e214b6d3">
